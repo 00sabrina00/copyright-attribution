@@ -1,7 +1,7 @@
 # Copyright & Attribution
 
 This repository contains copyright and attribution notices for third-party assets
-used in my projects (3D models, textures, music, sounds, fonts).
+used in my projects (3D models, textures, music, sounds).
 
 Credits files:
 - credits/models.md
