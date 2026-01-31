@@ -1,5 +1,14 @@
 # 3D Models
 
+Format for each entry:
+
+## Asset name
+Author:
+Source:
+License:
+Attribution text:
+Notes:
+
 ## Bee Wings
 Author: Creator Name  
 Source: https://sketchfab.com/...  
