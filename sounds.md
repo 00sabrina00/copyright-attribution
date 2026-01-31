@@ -1,5 +1,12 @@
 # Sound Effects
 
+## Asset name
+Author:
+Source:
+License:
+Attribution text:
+Notes:
+
 ## UI Click
 Author: Creator Name  
 Source: https://...  
