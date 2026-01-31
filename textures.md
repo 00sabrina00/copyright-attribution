@@ -1,5 +1,12 @@
 # Textures
 
+## Asset name
+Author:
+Source:
+License:
+Attribution text:
+Notes:
+
 ## Stone Texture Pack
 Author: Creator Name  
 Source: https://...  
