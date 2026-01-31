@@ -1,7 +1,5 @@
 # 3D Models
 
-Format for each entry:
-
 ## Asset name
 Author:
 Source:
