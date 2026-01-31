@@ -9,17 +9,10 @@ License:
 Attribution text:
 Notes:
 
-## Bee Wings
-Author: Creator Name  
-Source: https://sketchfab.com/...  
-License: CC-BY 4.0  
+## Lashes for Easy Edits
+Author:
+Source: https://sketchfab.com/3d-models/lashes-for-easy-edits-9e6fe9a4514045d696f4d3fb241fb011
+License:
+Attribution text:
+Notes:
 
-## Cartoon Low-Poly Roses
-Author: Creator Name  
-Source: https://sketchfab.com/...  
-License: CC-BY 4.0  
-
-## Cave Environment
-Author: Creator Name  
-Source: https://sketchfab.com/...  
-License: CC-BY 4.0  
