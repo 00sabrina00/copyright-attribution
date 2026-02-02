@@ -20,14 +20,14 @@ Notes:
 - **Changes:** Modified (scaled and minor adjustments)  
 - **Notes:**  
 
-## Rose (Animated)
+## Rose Animated
 
-- **Author:** <AUTHOR NAME FROM SKETCHFAB>  
+- **Author:** m7mdrf3t  
 - **Source:** https://sketchfab.com/3d-models/rose-animated-6ecc642950554a1a9d2863099ab61a47  
-- **License:** <LICENSE, zB CC BY 4.0>  
-  <LICENSE URL>  
+- **License:** CC BY 4.0  
+  http://creativecommons.org/licenses/by/4.0/  
 - **Attribution:**  
-  "Rose (Animated)" by <AUTHOR NAME>, licensed under <LICENSE>  
+  "Rose Animated" by m7mdrf3t, licensed under CC BY 4.0  
 - **Changes:** None  
 - **Notes:** —
 
