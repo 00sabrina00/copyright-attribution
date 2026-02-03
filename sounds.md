@@ -7,12 +7,14 @@ License:
 Attribution text:
 Notes:
 
-## UI Click
-Author: Creator Name  
-Source: https://...  
-License: CC0  
+### Sound Effect
 
-## Bee Buzz
-Author: Creator Name  
-Source: https://...  
-License: CC-BY 4.0  
+- **Author:** floraphonic  
+- **Source:** https://pixabay.com/de/users/floraphonic-38928062/  
+- **License:** Pixabay Content License  
+  https://pixabay.com/de/service/license-summary/  
+- **Attribution:**  
+  Sound Effect by floraphonic from Pixabay  
+- **Changes:** None  
+- **Notes:** Attribution optional, free for commercial use
+
